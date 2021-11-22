@@ -3,12 +3,24 @@ This project maintains a reading list for general text generation tasks
 
 
 
-## Dialogue Generation
+## Dialogue Response Generation
+
+- [Exemplar Encoder-Decoder for Neural Conversation Generation](https://www.aclweb.org/anthology/P18-1123.pdf) ACL2018
+- [An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems](https://www.ijcai.org/proceedings/2018/0609.pdf) IJCAI2018
+- [Retrieve and Refine: Improved Sequence Generation Models For Dialogue](https://arxiv.org/abs/1808.04776) EMNLP2018 (Workshop SCAI)
+- [Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory](https://arxiv.org/pdf/1809.05296) NAACL2019
+- [Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework](https://www.aclweb.org/anthology/D19-1195.pdf) EMNLP2019
+- [A Hybrid Retrieval-Generation Neural Conversation Model](https://arxiv.org/pdf/1904.09068) CIKM2019
+- [Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple
+  References](https://www.aclweb.org/anthology/P19-1372.pdf) ACL2019
+- [Response Generation by Context-Aware Prototype Editing](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4714) AAAI 2019
+- [EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation](https://arxiv.org/abs/2004.14592) SIGIR2019
+- [Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory](https://arxiv.org/abs/2004.02214) TASLP2021
+- [Controlling Dialogue Generation with Semantic Exemplars](https://arxiv.org/abs/2008.09075) NAACL 2021
+- [Hindsight: Posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/pdf/2110.07752.pdf) arxiv 2021
 
 
-
-
-## Translation Memory for Machine Translation
+## Machine Translation
 
 ### Statistical Machine Translation
 
@@ -67,5 +79,4 @@ This project maintains a reading list for general text generation tasks
 - Qian Cao, and Deyi Xiong. 2018. Encoding gated translation memory into neural machine translation. EMNLP. 
 
 - Jiatao Gu, Yong Wang, Kyunghyun Cho, Victor OK Li. 2018. Guiding neural machine translation with retrieved translation pieces. AAAI. 
-
 

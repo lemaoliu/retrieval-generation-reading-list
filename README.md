@@ -12,6 +12,25 @@ This project maintains a reading list for general text generation tasks
 
 ### Statistical Machine Translation
 
+- Rohit Gupta, Constantin Orǎsan. 2014. Incorporating paraphrasing in translation memory matching and retrieval. EACL.
+
+- Michel Simard, and Pierre Isabelle. 2009. Phrase-based machine translation in a computer-assisted translation environment. MT Summit.
+
+- Yifan He, Yanjun Ma, Josef van Genabith, and Andy Way. 2010. Bridging SMT and TM with translation recommendation. ACL.
+
+- Liangyou Li, Andy Way, and Qun Liu. 2014. A discriminative framework of integrating translation memory features into SMT. AMTA. 
+
+- Kun Wang, Chengqing Zong, and Keh-Yih Su. 2013. Integrating translation memory into phrase-based machine translation during decoding. ACL.
+
+- Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, and Conghui Zhu. 2012. Locally Training the Log-Linear Model for SMT. EMNLP. 
+
+- Kun Wang, Chengqing Zong, and Keh-Yih Su. 2014. Dynamically integrating cross-domain translation memory into phrase-based machine translation during decoding. COLING. 
+
+- Yanjun Ma, Yifan He, Andy Way, and Josef van Genabith. Consistent translation using discriminative learning-a translation memory-inspired approach. ACL. 
+
+- Liangyou Li, Andy Way, and Qun Liu. 2014. Phrase-level combination of SMT and TM using constrained word lattice. ACL.
+
+- Katharina Wäschle, and Stefan Riezler. 2015. Integrating a large, monolingual corpus as translation memory into statistical machine translation. EAMT. 
 
 ### Neural Machine Translation
 

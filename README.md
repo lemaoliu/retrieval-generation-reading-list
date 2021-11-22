@@ -15,7 +15,7 @@ This project maintains a reading list for general text generation tasks
 
 ### Neural Machine Translation
 
-- Qiuxiang He, Guoping Huang, Qu Cui, Li Li, and Lemao Liu. 2021. Fast and Accurate Neural Machine Translation with Translation Memory. In Proceedings of ACL.
+- Qiuxiang He, Guoping Huang, Qu Cui, Li Li, and Lemao Liu. 2021. Fast and Accurate Neural Machine Translation with Translation Memory. ACL.
 
 - Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. 2021. Nearest neighbor machine translation. ICLR. 
 

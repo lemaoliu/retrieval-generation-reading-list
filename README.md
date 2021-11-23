@@ -20,6 +20,12 @@ This project maintains a reading list for general text generation tasks
 - [Hindsight: Posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/pdf/2110.07752.pdf) arxiv 2021
 
 
+## Other Text Generation tasks
+- Ziqiang Cao, Wenjie Li, Sujian Li, and Furu Wei. 2018. [Retrieve, rerank and rewrite: Soft template based neural summarization](https://aclanthology.org/P18-1015.pdf) ACL
+- Mingda Chen, Qingming Tang, Sam Wiseman, and Kevin Gimpel. 2019. [Controllable paraphrase generation with a syntactic exemplar.](https://aclanthology.org/P19-1599.pdf) ACL
+- Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. 2018. [Generating sentences by editing prototypes](https://aclanthology.org/Q18-1031.pdf) TACL
+- 
+
 ## Machine Translation
 
 ### Statistical Machine Translation

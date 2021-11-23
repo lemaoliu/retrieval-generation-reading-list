@@ -18,15 +18,25 @@ This project maintains a reading list for general text generation tasks
 - [Prototype-to-Style: Dialogue Generation with Style-Aware Editing on Retrieval Memory](https://arxiv.org/abs/2004.02214) TASLP2021
 - [Controlling Dialogue Generation with Semantic Exemplars](https://arxiv.org/abs/2008.09075) NAACL 2021
 - [Hindsight: Posterior-guided training of retrievers for improved open-ended generation](https://arxiv.org/pdf/2110.07752.pdf) arxiv 2021
-
+- Mihir Kale and Abhinav Rastogi. 2020. [Template guided text generation for task-oriented dialogue](https://aclanthology.org/2020.emnlp-main.527.pdf) EMNLP.
+- Qingfu Zhu, Lei Cui, Wei-Nan Zhang, Furu Wei, Ting Liu. 2019. [Retrieval-Enhanced Adversarial Training for Neural Response Generation](https://aclanthology.org/P19-1366.pdf) ACL.
 
 ## Other Text Generation tasks
-- Ziqiang Cao, Wenjie Li, Sujian Li, and Furu Wei. 2018. [Retrieve, rerank and rewrite: Soft template based neural summarization](https://aclanthology.org/P18-1015.pdf) ACL
-- Mingda Chen, Qingming Tang, Sam Wiseman, and Kevin Gimpel. 2019. [Controllable paraphrase generation with a syntactic exemplar.](https://aclanthology.org/P19-1599.pdf) ACL
-- Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. 2018. [Generating sentences by editing prototypes](https://aclanthology.org/Q18-1031.pdf) TACL
-- Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick. 2021. [Efficient Nearest Neighbor Language Models](http://arxiv.org/abs/2109.04212). EMNLP. 
-
-
+- Ziqiang Cao, Wenjie Li, Sujian Li, and Furu Wei. 2018. [Retrieve, rerank and rewrite: Soft template based neural summarization](https://aclanthology.org/P18-1015.pdf) ACL.
+- Mingda Chen, Qingming Tang, Sam Wiseman, and Kevin Gimpel. 2019. [Controllable paraphrase generation with a syntactic exemplar.](https://aclanthology.org/P19-1599.pdf) ACL.
+- Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. 2018. [Generating sentences by editing prototypes](https://aclanthology.org/Q18-1031.pdf) TACL.
+- Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, and Ming-Wei Chang. 2020. [REALM: retrievalaugmented language model pre-training](https://arxiv.org/pdf/2002.08909.pdf) arXiv preprint.
+- Tatsunori B. Hashimoto, Kelvin Guu, Yonatan Oren, and Percy Liang. 2018. [A retrieve-and-edit framework for predicting structured outputs](https://proceedings.neurips.cc/paper/2018/file/cd17d3ce3b64f227987cd92cd701cc58-Paper.pdf) Neurips.
+- Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick. 2021. [Efficient Nearest Neighbor Language Models](http://arxiv.org/abs/2109.04212) EMNLP 
+- Junxian He, Taylor Berg-Kirkpatrick, and Graham Neubig. 2020. [Learning sparse prototypes for text generation](https://proceedings.neurips.cc/paper/2020/file/a8ef1979aeec2737ae3830ec543ed0df-Paper.pdf) Neurips.
+- Nabil Hossain, Marjan Ghazvininejad, and Luke Zettlemoyer. 2020. [Simple and effective retrieve-edit-rerank text generation](https://aclanthology.org/2020.acl-main.228.pdf) ACL.
+- Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. 2020. [Generalization through memorization: Nearest neighbor language models](https://openreview.net/pdf?id=HklBjCEKvH) ICLR.
+- Mike Lewis, Marjan Ghazvininejad, Gargi Ghosh, Armen Aghajanyan, Sida Wang, and Luke Zettlemoyer. 2020. [Pre-training via paraphrasing](https://proceedings.neurips.cc/paper/2020/file/d6f1dd034aabde7657e6680444ceff62-Paper.pdf) Neuips.
+- Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K¨uttler, Mike Lewis, Wen-tau Yih, Tim Rockt¨aschel, Sebastian Riedel, and Douwe Kiela. 2020. [Retrievalaugmented generation for knowledge-intensive NLP tasks](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf) Neuips.
+- Juncen Li, Robin Jia, He He, and Percy Liang. 2018. [Delete, retrieve, generate: a simple approach to sentiment and style transfer](https://aclanthology.org/N18-1169.pdf) NAACL
+- Hao Peng, Ankur P. Parikh, Manaal Faruqui, Bhuwan Dhingra, and Dipanjan Das. 2019. [Text generation with exemplar-based adaptive decoding](https://aclanthology.org/N19-1263.pdf) NAACL
+- Yixuan Su, Zaiqiao Meng, Simon Baker, and Nigel Collier. 2021. [Few-shot table-to-text generation with prototype memory](https://aclanthology.org/N19-1263.pdf) Findings of EMNLP
+- Fei Xiao, Liang Pang, Yanyan Lan, Yan Wang, Huawei Shen, Xueqi Cheng. 2021 [Transductive Learning for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2109.07812.pdf) EMNLP.
 
 ## Machine Translation
 

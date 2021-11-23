@@ -46,7 +46,7 @@ This project maintains a reading list for general text generation tasks
 
 - Kun Wang, Chengqing Zong, and Keh-Yih Su. 2014. Dynamically integrating cross-domain translation memory into phrase-based machine translation during decoding. COLING. 
 
-- Yanjun Ma, Yifan He, Andy Way, and Josef van Genabith. Consistent translation using discriminative learning-a translation memory-inspired approach. ACL. 
+- Yanjun Ma, Yifan He, Andy Way, and Josef van Genabith. 2011. Consistent translation using discriminative learning: a translation memory-inspired approach. ACL. 
 
 - Liangyou Li, Andy Way, and Qun Liu. 2014. Phrase-level combination of SMT and TM using constrained word lattice. ACL.
 

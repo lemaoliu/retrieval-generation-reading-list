@@ -24,7 +24,9 @@ This project maintains a reading list for general text generation tasks
 - Ziqiang Cao, Wenjie Li, Sujian Li, and Furu Wei. 2018. [Retrieve, rerank and rewrite: Soft template based neural summarization](https://aclanthology.org/P18-1015.pdf) ACL
 - Mingda Chen, Qingming Tang, Sam Wiseman, and Kevin Gimpel. 2019. [Controllable paraphrase generation with a syntactic exemplar.](https://aclanthology.org/P19-1599.pdf) ACL
 - Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, and Percy Liang. 2018. [Generating sentences by editing prototypes](https://aclanthology.org/Q18-1031.pdf) TACL
-- 
+- Junxian He, Graham Neubig, Taylor Berg-Kirkpatrick. 2021. [Efficient Nearest Neighbor Language Models](http://arxiv.org/abs/2109.04212). EMNLP. 
+
+
 
 ## Machine Translation
 

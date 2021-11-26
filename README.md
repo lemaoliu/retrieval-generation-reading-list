@@ -73,4 +73,3 @@ This project maintains a reading list for retrieval-augmented text generation.
 - Hao Peng, Ankur P. Parikh, Manaal Faruqui, Bhuwan Dhingra, Dipanjan Das. [Text generation with exemplar-based adaptive decoding](https://aclanthology.org/N19-1263.pdf) NAACL2019
 - Yixuan Su, Zaiqiao Meng, Simon Baker, Nigel Collier. [Few-shot table-to-text generation with prototype memory](https://aclanthology.org/N19-1263.pdf) Findings of EMNLP2021
 - Fei Xiao, Liang Pang, Yanyan Lan, Yan Wang, Huawei Shen, Xueqi Cheng [Transductive Learning for Unsupervised Text Style Transfer](https://arxiv.org/pdf/2109.07812.pdf) EMNLP2021.
-- Urvashi Khandelwal, Omer Levy, Dan Jurafsky, Luke Zettlemoyer, and Mike Lewis. [Generalization through Memorization: Nearest Neighbor Language Models.](https://openreview.net/pdf?id=HklBjCEKvH) ICLR 2020. 
